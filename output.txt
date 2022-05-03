@@ -1,0 +1,300 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      ___                       ___           ___                         ___           ___
+     /  /\        ___          /__/\         /  /\                       /  /\         /  /\
+    /  /::\      /  /\         \  \:\       /  /::|                     /  /:/_       /  /::\
+   /  /:/\:\    /  /:/          \  \:\     /  /:/:|     ___     ___    /  /:/ /\     /  /:/\:\
+  /  /:/~/:/   /__/::\      _____\__\:\   /  /:/|:|__  /__/\   /  /\  /  /:/ /:/_   /  /:/~/:/
+ /__/:/ /:/___ \__\/\:\__  /__/::::::::\ /__/:/ |:| /\ \  \:\ /  /:/ /__/:/ /:/ /\ /__/:/ /:/___
+ \  \:\/:::::/    \  \:\/\ \  \:\~~\~~\/ \__\/  |:|/:/  \  \:\  /:/  \  \:\/:/ /:/ \  \:\/:::::/
+  \  \::/~~~~      \__\::/  \  \:\  ~~~      |  |:/:/    \  \:\/:/    \  \::/ /:/   \  \::/~~~~
+   \  \:\          /__/:/    \  \:\          |  |::/      \  \::/      \  \:\/:/     \  \:\
+    \  \:\         \__\/      \  \:\         |  |:/        \__\/        \  \::/       \  \:\
+     \__\/                     \__\/         |__|/                       \__\/         \__\/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Random element from [
+		"Named after my favourite character in Tron Franchise. Disney don\'t sue lol",
+		"Another password manager? Bruh",
+		"So secure your grandmother couldn't beat it"
+]
+
+What is your username: samin
+
+# Terminal Clears
+
+Your user file does not exist
+What do you want your username to be. Case does not matter: samin
+What do you want your Password to be. Case does matter: haha
+You will be asked to login again
+What is your username: samin
+Password: hahaa
+ Try #2
+Password failed. After 10th try, data will be erased. Please enter again: haha
+
+# Terminal Clears
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      ___                       ___           ___                         ___           ___
+     /  /\        ___          /__/\         /  /\                       /  /\         /  /\
+    /  /::\      /  /\         \  \:\       /  /::|                     /  /:/_       /  /::\
+   /  /:/\:\    /  /:/          \  \:\     /  /:/:|     ___     ___    /  /:/ /\     /  /:/\:\
+  /  /:/~/:/   /__/::\      _____\__\:\   /  /:/|:|__  /__/\   /  /\  /  /:/ /:/_   /  /:/~/:/
+ /__/:/ /:/___ \__\/\:\__  /__/::::::::\ /__/:/ |:| /\ \  \:\ /  /:/ /__/:/ /:/ /\ /__/:/ /:/___
+ \  \:\/:::::/    \  \:\/\ \  \:\~~\~~\/ \__\/  |:|/:/  \  \:\  /:/  \  \:\/:/ /:/ \  \:\/:::::/
+  \  \::/~~~~      \__\::/  \  \:\  ~~~      |  |:/:/    \  \:\/:/    \  \::/ /:/   \  \::/~~~~
+   \  \:\          /__/:/    \  \:\          |  |::/      \  \::/      \  \:\/:/     \  \:\
+    \  \:\         \__\/      \  \:\         |  |:/        \__\/        \  \::/       \  \:\
+     \__\/                     \__\/         |__|/                       \__\/         \__\/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Random element from [
+		"Named after my favourite character in Tron Franchise. Disney don\'t sue lol",
+		"Another password manager? Bruh",
+		"So secure your grandmother couldn't beat it"
+]
+
+
+
+Welcome to the Main Menu. Here are your options:
+1) Lookup
+2) Add
+3) Delete
+4) Modify
+5) Exit
+
+What would you like to do: addd
+
+Invaild Option.
+1) Lookup
+2) Add
+3) Delete
+4) Modify
+5) Exit
+
+What would you like to do: add
+What word you like to use to identify this password: 
+Failed.Please enter a word: gmail
+Website: www.gmail.com
+Password: 
+Failed.Please enter a password: supersecretpassword
+Password has been added to user data
+Press enter to continue
+
+# Terminal Clears
+
+Welcome to the Main Menu. Here are your options:
+1) Lookup
+2) Add
+3) Delete
+4) Modify
+5) Exit
+
+What would you like to do: modify
+
+# Terminal Clears
+
+Welcome to the Modify Menu. Here are your options:
+1) Account
+2) Individual
+3) Exit
+
+What would you like to do: account
+
+# Terminal Clears
+
+This will change the password used to access the file. If you don't want to change that then enter nothing.
+
+What do you want your Password to be. Case does matter: haha1
+Password has been changed
+
+
+To continue click enter
+
+# Terminal Clears
+
+Welcome to the Modify Menu. Here are your options:
+1) Account
+2) Individual
+3) Exit
+
+What would you like to do: individual
+What is the name of the password you are changing up for (Case Matters): gmail
+What do you want your Password to be. Case does matter: haHa1
+Password has been changed
+
+
+To continue click enter
+
+# Terminal Clears
+
+Welcome to the Modify Menu. Here are your options:
+1) Account
+2) Individual
+3) Exit
+
+What would you like to do: exit
+
+# Terminal Clears
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      ___                       ___           ___                         ___           ___
+     /  /\        ___          /__/\         /  /\                       /  /\         /  /\
+    /  /::\      /  /\         \  \:\       /  /::|                     /  /:/_       /  /::\
+   /  /:/\:\    /  /:/          \  \:\     /  /:/:|     ___     ___    /  /:/ /\     /  /:/\:\
+  /  /:/~/:/   /__/::\      _____\__\:\   /  /:/|:|__  /__/\   /  /\  /  /:/ /:/_   /  /:/~/:/
+ /__/:/ /:/___ \__\/\:\__  /__/::::::::\ /__/:/ |:| /\ \  \:\ /  /:/ /__/:/ /:/ /\ /__/:/ /:/___
+ \  \:\/:::::/    \  \:\/\ \  \:\~~\~~\/ \__\/  |:|/:/  \  \:\  /:/  \  \:\/:/ /:/ \  \:\/:::::/
+  \  \::/~~~~      \__\::/  \  \:\  ~~~      |  |:/:/    \  \:\/:/    \  \::/ /:/   \  \::/~~~~
+   \  \:\          /__/:/    \  \:\          |  |::/      \  \::/      \  \:\/:/     \  \:\
+    \  \:\         \__\/      \  \:\         |  |:/        \__\/        \  \::/       \  \:\
+     \__\/                     \__\/         |__|/                       \__\/         \__\/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Random element from [
+		"Named after my favourite character in Tron Franchise. Disney don\'t sue lol",
+		"Another password manager? Bruh",
+		"So secure your grandmother couldn't beat it"
+]
+
+Welcome to the Main Menu. Here are your options:
+1) Lookup
+2) Add
+3) Delete
+4) Modify
+5) Exit
+
+What would you like to do: Lookup
+
+# Terminal Clears
+
+Welcome to the Lookup Menu. Here are your options:
+1) All
+2) Search
+3) Exit
+
+What would you like to do: All
+
+# Terminal Clears
+
+To view individual passwords, please use search
+
+Name: gmail
+Website:
+
+To view individual passwords, please use search
+
+
+To continue click enter
+
+Welcome to the Lookup Menu. Here are your options:
+1) All
+2) Search
+3) Exit
+
+What would you like to do: search
+What is the name of the password you are searching up for (Case Matters): gmail
+Password Info for gmail:
+
+Website: www.gmail.com
+
+Password: haHa1
+
+
+To continue click enter
+
+# Terminal Clears
+
+Welcome to the Lookup Menu. Here are your options:
+1) All
+2) Search
+3) Exit
+
+What would you like to do: exit
+
+# Terminal Clears
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      ___                       ___           ___                         ___           ___
+     /  /\        ___          /__/\         /  /\                       /  /\         /  /\
+    /  /::\      /  /\         \  \:\       /  /::|                     /  /:/_       /  /::\
+   /  /:/\:\    /  /:/          \  \:\     /  /:/:|     ___     ___    /  /:/ /\     /  /:/\:\
+  /  /:/~/:/   /__/::\      _____\__\:\   /  /:/|:|__  /__/\   /  /\  /  /:/ /:/_   /  /:/~/:/
+ /__/:/ /:/___ \__\/\:\__  /__/::::::::\ /__/:/ |:| /\ \  \:\ /  /:/ /__/:/ /:/ /\ /__/:/ /:/___
+ \  \:\/:::::/    \  \:\/\ \  \:\~~\~~\/ \__\/  |:|/:/  \  \:\  /:/  \  \:\/:/ /:/ \  \:\/:::::/
+  \  \::/~~~~      \__\::/  \  \:\  ~~~      |  |:/:/    \  \:\/:/    \  \::/ /:/   \  \::/~~~~
+   \  \:\          /__/:/    \  \:\          |  |::/      \  \::/      \  \:\/:/     \  \:\
+    \  \:\         \__\/      \  \:\         |  |:/        \__\/        \  \::/       \  \:\
+     \__\/                     \__\/         |__|/                       \__\/         \__\/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Random element from [
+		"Named after my favourite character in Tron Franchise. Disney don\'t sue lol",
+		"Another password manager? Bruh",
+		"So secure your grandmother couldn't beat it"
+]
+
+Welcome to the Main Menu. Here are your options:
+1) Lookup
+2) Add
+3) Delete
+4) Modify
+5) Exit
+
+What would you like to do: Delete
+Please enter the name of the item you like to delete: gmail
+Are you sure (yes/no): no
+Item will not be deleted
+Press enter to continue
+
+# Terminal Clears
+
+Welcome to the Main Menu. Here are your options:
+1) Lookup
+2) Add
+3) Delete
+4) Modify
+5) Exit
+
+What would you like to do: delete
+Please enter the name of the item you like to delete: gmail
+Are you sure (yes/no): yes
+Item has been deleted
+Press enter to continue
+
+# Terminal Clears
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      ___                       ___           ___                         ___           ___
+     /  /\        ___          /__/\         /  /\                       /  /\         /  /\
+    /  /::\      /  /\         \  \:\       /  /::|                     /  /:/_       /  /::\
+   /  /:/\:\    /  /:/          \  \:\     /  /:/:|     ___     ___    /  /:/ /\     /  /:/\:\
+  /  /:/~/:/   /__/::\      _____\__\:\   /  /:/|:|__  /__/\   /  /\  /  /:/ /:/_   /  /:/~/:/
+ /__/:/ /:/___ \__\/\:\__  /__/::::::::\ /__/:/ |:| /\ \  \:\ /  /:/ /__/:/ /:/ /\ /__/:/ /:/___
+ \  \:\/:::::/    \  \:\/\ \  \:\~~\~~\/ \__\/  |:|/:/  \  \:\  /:/  \  \:\/:/ /:/ \  \:\/:::::/
+  \  \::/~~~~      \__\::/  \  \:\  ~~~      |  |:/:/    \  \:\/:/    \  \::/ /:/   \  \::/~~~~
+   \  \:\          /__/:/    \  \:\          |  |::/      \  \::/      \  \:\/:/     \  \:\
+    \  \:\         \__\/      \  \:\         |  |:/        \__\/        \  \::/       \  \:\
+     \__\/                     \__\/         |__|/                       \__\/         \__\/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Another password manager? Bruh
+
+
+
+Welcome to the Main Menu. Here are your options:
+1) Lookup
+2) Add
+3) Delete
+4) Modify
+5) Exit
+
+What would you like to do: exit
+
+# Terminal Clears
+
+Have a wonderful day!
